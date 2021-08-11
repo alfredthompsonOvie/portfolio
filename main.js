@@ -12,4 +12,4 @@ navLinks.forEach(link => {
     })
 })
 
-gsap.from(".intro", {duration: 1, y: '-100%'})
+// gsap.from(".intro", {duration: 1, y: '-100%'})
